@@ -10,11 +10,6 @@
     "default_popup": "popup.html"
   },
 
-  "chrome_url_overrides" : {
-    "newtab" : "newtab.html"
-
-  },
-
   "icons"  :{
     "64" : "icon.png"
   },
@@ -22,10 +17,13 @@
   "content_scripts" : [
     {
       "matches" : ["http://*/*", "https://*/*"],
-      "js" : ["myScript.js"]
+      "css" : ["style.css"],
+      "js" : ["jquery.js", "myScript.js"]
     }
   ],
-  "background" : {
-    "scripts" : ["background.js"]
-  }
+
+  "web_accessible_resources" : [
+    "toolbar.html",
+    "style.css"
+  ]
 }
