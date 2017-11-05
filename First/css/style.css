@@ -1,0 +1,102 @@
+
+.videoContent{
+	width: 100%;
+	height: 480px;
+	background-color: #000;
+}
+video{
+	position: absolute;
+    left: 247.833px
+}
+
+#icon{
+	border-radius: 25px;
+	background-color: #020202;
+	width: 25px;
+	height: 25px;
+	float: right;
+	position: relative;
+	right: 15px;
+	top: 12px;
+	color: #020202;
+}
+
+.dinamicBlock{
+	float: right;
+	position: relative;
+	width: 320px;
+	height: inherit;
+	background-color: rgba(0,0,0,0.5);
+
+}
+.title{
+	font-weight: bold;
+	font-family: Tahoma;
+	font-size: 18px;
+	align-content: center;
+    margin: 15px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+.remove{
+	border-radius: 25px;
+	background-color: #ddd;
+	width: 25px;
+	height: 25px;
+	float: right;
+	position: relative;
+	bottom: 2px;
+	color:white;
+}
+
+.container{
+    height: 396px;
+    width: 250px;
+    overflow-y: scroll;
+    margin: 10px;
+    
+    position: relative;
+    left: 18%;
+
+
+}
+
+.dinamicImg{
+	height: 150px;
+	width: 150px;
+	margin: 15px;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+    height: 25px;
+   	margin:150px;
+
+}
+::-webkit-scrollbar-thumb {
+    height: 6px;
+    border: 4px solid rgba(255, 255, 255, 0);
+    background-clip: padding-box;
+    color: white;
+    -webkit-border-radius: 10px;
+    background-color: #fff;
+    -webkit-box-shadow: inset -1px -1px 0px rgba(255, 255, 255, 0.05), inset 1px 1px 0px rgba(0, 0, 0, 0.05);
+}
+::-webkit-scrollbar-button {
+    width: 5px;
+    height: 0;
+    display: none;
+}
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
