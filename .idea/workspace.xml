@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff602b06-7f2a-4359-b5f5-4c31b781e101" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extensions/Tabs/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extensions/Tabs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extensions/Tabs/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extensions/Tabs/s1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DigitalTwin/css/reset.css" afterPath="$PROJECT_DIR$/DigitalTwin/css/reset.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DigitalTwin/css/style.css" afterPath="$PROJECT_DIR$/DigitalTwin/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DigitalTwin/index.html" afterPath="$PROJECT_DIR$/DigitalTwin/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DigitalTwin/js/script.js" afterPath="$PROJECT_DIR$/DigitalTwin/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extensions/Storage/index.html" afterPath="$PROJECT_DIR$/Extensions/Storage/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extensions/Storage/script.js" afterPath="$PROJECT_DIR$/Extensions/Storage/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,37 +25,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extensions/Storage/manifest.json">
+        <entry file="file://$PROJECT_DIR$/Extensions/Tabs/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extensions/Storage/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Extensions/Storage/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="s1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extensions/Storage/s1.js">
+        <entry file="file://$PROJECT_DIR$/Extensions/Tabs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -62,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="background.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extensions/Storage/background.html">
+      <file leaf-file-name="background.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Extensions/Tabs/background.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,6 +110,8 @@
         <option value="$PROJECT_DIR$/Extensions/Storage/manifest.json" />
         <option value="$PROJECT_DIR$/Extensions/Storage/index.html" />
         <option value="$PROJECT_DIR$/Extensions/Storage/script.js" />
+        <option value="$PROJECT_DIR$/Extensions/Tabs/manifest.json" />
+        <option value="$PROJECT_DIR$/Extensions/Tabs/background.js" />
       </list>
     </option>
   </component>
@@ -176,19 +160,7 @@
               <item name="start" type="b2602c69:ProjectViewProjectNode" />
               <item name="start" type="462c0819:PsiDirectoryNode" />
               <item name="Extensions" type="462c0819:PsiDirectoryNode" />
-              <item name="Notifications" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
-              <item name="Extensions" type="462c0819:PsiDirectoryNode" />
-              <item name="Storage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
-              <item name="Extensions" type="462c0819:PsiDirectoryNode" />
-              <item name="Toolkit" type="462c0819:PsiDirectoryNode" />
+              <item name="Tabs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="start" type="b2602c69:ProjectViewProjectNode" />
@@ -215,19 +187,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Extensions/Tabs" />
+      <recent name="$PROJECT_DIR$/Extensions/Storage" />
+      <recent name="$PROJECT_DIR$/Extensions/Notifications" />
+      <recent name="$PROJECT_DIR$/DemoPreview" />
+      <recent name="$PROJECT_DIR$/First" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Extensions" />
       <recent name="$PROJECT_DIR$/DigitalTwin/img" />
       <recent name="$PROJECT_DIR$/DigitalTwin" />
       <recent name="$PROJECT_DIR$/Toolkit" />
       <recent name="$PROJECT_DIR$/First" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Extensions/Storage" />
-      <recent name="$PROJECT_DIR$/Extensions/Notifications" />
-      <recent name="$PROJECT_DIR$/DemoPreview" />
-      <recent name="$PROJECT_DIR$/First" />
-      <recent name="$PROJECT_DIR$/DigitalTwin/js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,7 +235,7 @@
       <workItem from="1510505808525" duration="4361000" />
       <workItem from="1510581832729" duration="1675000" />
       <workItem from="1510583982382" duration="6016000" />
-      <workItem from="1510606551569" duration="1935000" />
+      <workItem from="1510606551569" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="extension test">
       <created>1509541685281</created>
@@ -342,11 +314,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510595239473</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Save and get if plugin menu">
+      <created>1510608786062</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1510608786062</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44773000" />
+    <option name="totallyTimeSpent" value="47368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1076" y="-4" width="1316" height="783" extended-state="6" />
@@ -408,23 +387,14 @@
     <MESSAGE value="Different commits" />
     <MESSAGE value="notifiactions" />
     <MESSAGE value="Event on click in plagin menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Event on click in plagin menu" />
+    <MESSAGE value="Save and get if plugin menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Save and get if plugin menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DigitalTwin/MagicKey.html" />
-    <entry file="file://$PROJECT_DIR$/DigitalTwin/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First/background.js" />
-    <entry file="file://$PROJECT_DIR$/First/newtab.html" />
     <entry file="file://$PROJECT_DIR$/First/popup.js" />
     <entry file="file://$PROJECT_DIR$/DigitalTwin/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -596,6 +566,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -603,6 +576,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -666,6 +640,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -695,22 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/Storage/background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/Storage/s1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Extensions/Storage/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -731,6 +690,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extensions/Storage/s1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extensions/Storage/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extensions/Tabs/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extensions/Tabs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extensions/Tabs/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extensions/Tabs/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
